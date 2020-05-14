@@ -1,3 +1,6 @@
+indiceInput = document.getElementById('indice');
+radInput = document.getElementById('rad');
+
 function somenteNumeros(e){
     var charCode = e.charCode ? e.charCode : e.keyCode;
     // charCode 8 = backspace   
