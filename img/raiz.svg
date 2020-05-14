@@ -1,45 +1,102 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="131.549px" height="131.549px" viewBox="0 0 131.549 131.549" style="enable-background:new 0 0 131.549 131.549;"
-	 xml:space="preserve">
-<g>
-	<g>
-		<path d="M7.308,89.374h3.713l23.387,30.344c1.391,1.81,3.534,2.849,5.788,2.849c0.263,0,0.533-0.015,0.799-0.043
-			c2.533-0.277,4.741-1.858,5.822-4.168L91.131,23.6h33.109c4.037,0,7.309-3.272,7.309-7.308c0-4.037-3.271-7.309-7.309-7.309H86.48
-			c-2.838,0-5.418,1.642-6.621,4.212l-41.201,88.097L20.405,77.604c-1.381-1.795-3.521-2.848-5.788-2.848H7.308
-			C3.272,74.756,0,78.027,0,82.065S3.272,89.374,7.308,89.374z"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   width="131.549px"
+   height="131.549px"
+   viewBox="0 0 131.549 131.549"
+   style="enable-background:new 0 0 131.549 131.549;"
+   xml:space="preserve"
+   sodipodi:docname="raiz.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata43"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs41" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview39"
+   showgrid="false"
+   inkscape:zoom="5.8024958"
+   inkscape:cx="36.304421"
+   inkscape:cy="65.774498"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g6" />
+<g
+   id="g6">
+	<g
+   id="g4"
+   style="fill:#0bccff;fill-opacity:1">
+		<path
+   d="M7.308,89.374h3.713l23.387,30.344c1.391,1.81,3.534,2.849,5.788,2.849c0.263,0,0.533-0.015,0.799-0.043    c2.533-0.277,4.741-1.858,5.822-4.168L91.131,23.6h33.109c4.037,0,7.309-3.272,7.309-7.308c0-4.037-3.271-7.309-7.309-7.309H86.48    c-2.838,0-5.418,1.642-6.621,4.212l-41.201,88.097L20.405,77.604c-1.381-1.795-3.521-2.848-5.788-2.848H7.308    C3.272,74.756,0,78.027,0,82.065S3.272,89.374,7.308,89.374z"
+   id="path2"
+   style="fill:#0bccff;fill-opacity:1" />
 	</g>
 </g>
-<g>
+<g
+   id="g8">
 </g>
-<g>
+<g
+   id="g10">
 </g>
-<g>
+<g
+   id="g12">
 </g>
-<g>
+<g
+   id="g14">
 </g>
-<g>
+<g
+   id="g16">
 </g>
-<g>
+<g
+   id="g18">
 </g>
-<g>
+<g
+   id="g20">
 </g>
-<g>
+<g
+   id="g22">
 </g>
-<g>
+<g
+   id="g24">
 </g>
-<g>
+<g
+   id="g26">
 </g>
-<g>
+<g
+   id="g28">
 </g>
-<g>
+<g
+   id="g30">
 </g>
-<g>
+<g
+   id="g32">
 </g>
-<g>
+<g
+   id="g34">
 </g>
-<g>
+<g
+   id="g36">
 </g>
 </svg>
