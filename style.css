@@ -1,0 +1,93 @@
+/*
+	#091921
+	#0c2835
+	#0bccff
+*/
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #091921;
+}
+
+.container{
+	position: absolute;
+	left: 50%;
+	top: 45%;
+	transform: translate(-50%,-50%);
+}
+
+.raiz{
+	width: 30vw;
+}
+
+.raiz img{
+	width: 100%;
+}
+
+.raiz .rad{
+	position: absolute;
+	margin-top: -55%;
+	margin-left: 60%;
+}
+
+.raiz .rad input{
+	width: 20vw;
+	height: 10vw;
+	color: #fff;
+	padding: 4px;
+	text-align: center;
+	font-size: 4vw;
+	border: none;
+	border-radius: 2vw;
+	background-color: #0c2835;
+}
+
+.indice{
+	position: absolute;
+	margin-top: 38%;
+}
+
+.indice input{
+	width: 12vw;
+	height:5vw;
+	padding: 2px;
+	text-align: center;
+	font-size: 2vw;
+	color: #fff;
+	transform: translateX(-25%);
+	border: none;
+	border-radius: 1.5vw;
+	background-color: #0c2835;
+}
+
+.indice input:hover{
+	opacity: 0.7;
+}
+
+.btn{
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.btn button{
+	font-family: 'Titan One', cursive;
+	color: #0bccff;
+	/*padding: 5px;*/
+	text-align: center;
+	font-size: 5vw;
+	font-weight: normal;
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+}
+
+.btn button:hover{
+	opacity: 0.7;
+}
