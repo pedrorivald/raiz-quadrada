@@ -13,3 +13,12 @@ function somenteNumeros(e){
         }
     }
 }
+
+function calcRaiz(){
+    let i = indiceInput.value;
+    let r = radInput.value;
+
+    let result = Math.pow(r, 1/i);
+
+    radInput.value = result;
+}
