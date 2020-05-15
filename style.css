@@ -70,6 +70,37 @@ body{
 	opacity: 0.7;
 }
 
+/*.res{
+	position: absolute;
+	margin-top: -70%;
+	margin-left: 60%;
+	transform: translateX(50%);
+	display: none;
+	transition: trasform 3s;
+}
+*/
+.res span{
+	color: #06E54F;
+	font-size: 10vw;
+	font-family: sans-serif;
+}
+
+
+.res{
+	position: absolute;
+	margin-left: 50%;
+	transform: translate(50%,-50%);
+  animation-name: example;
+  animation-duration: 2s;  
+  animation-fill-mode: forwards;
+  display: none;
+}
+
+@keyframes example {
+  from {right: -35vw;}
+  to {right: 0px;}
+}
+
 .btn{
 	position: absolute;
 	left: 50%;
