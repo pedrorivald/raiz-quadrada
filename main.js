@@ -1,5 +1,8 @@
 indiceInput = document.getElementById('indice');
 radInput = document.getElementById('rad');
+spanResult = document.getElementById('result');
+divResult = document.getElementById('divResult');
+divExpressao = document.getElementById('ex');
 
 function somenteNumeros(e){
     var charCode = e.charCode ? e.charCode : e.keyCode;
@@ -20,5 +23,7 @@ function calcRaiz(){
 
     let result = Math.pow(r, 1/i);
 
-    radInput.value = result;
+    spanResult.innerHTML = result.toFixed(3);
+    divResult.style.display = 'block';
+    divExpressao.style.display = 'none';
 }
